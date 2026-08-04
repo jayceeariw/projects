@@ -1,2 +1,2 @@
 # projects
-This folder consists of all of my projects using a variety of languages <:
+A collection of my technical, cybersecurity, and data annotation projects.
