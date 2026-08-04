@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4323095</id>
+      <size>52</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-04 20:48:52.253139+00:00</created>
+      <updated>2026-08-04 21:01:28.858222+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>51</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4321018</id>
+          <start>0</start>
+          <stop>51</stop>
+          <url>https://app.cvat.ai/api/jobs/4323095/dataset/export/api/jobs/4323095</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>jaycee.welcome</username>
+        <email>jaycee.welcome@saintleo.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>left_hand</name>
+          <color>#ffcc33</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>right_hand</name>
+          <color>#3d3df5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-08-04 21:10:52.937943+00:00</dumped>
+  </meta>
+  <image id="0" name="05_index-right_0.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="6.81" ytl="40.53" xbr="113.01" ybr="113.45" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="05_index-right_1.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="7.70" ytl="51.86" xbr="114.07" ybr="114.34" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="05_index-right_10.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="6.11" ytl="47.43" xbr="108.41" ybr="114.16" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="05_index-right_11.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="6.99" ytl="43.89" xbr="105.75" ybr="110.80" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="05_index-right_12.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="8.76" ytl="44.07" xbr="106.11" ybr="104.25" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="05_index-right_13.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="11.77" ytl="41.42" xbr="105.75" ybr="109.56" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="05_index-right_14.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="8.05" ytl="41.77" xbr="108.58" ybr="111.33" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="05_index-right_15.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="15.13" ytl="38.76" xbr="105.75" ybr="103.01" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="05_index-right_16.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="8.58" ytl="37.52" xbr="105.22" ybr="108.32" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="05_index-right_17.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="8.94" ytl="39.47" xbr="109.47" ybr="108.85" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="05_index-right_18.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="8.94" ytl="35.22" xbr="113.72" ybr="112.57" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="05_index-right_19.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="10.35" ytl="36.11" xbr="112.12" ybr="107.79" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="05_index-right_2.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="13.36" ytl="48.32" xbr="113.54" ybr="115.58" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="05_index-right_20.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="11.59" ytl="35.58" xbr="111.06" ybr="102.12" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="05_index-right_21.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="13.19" ytl="33.63" xbr="110.35" ybr="109.03" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="05_index-right_22.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="10.35" ytl="35.40" xbr="112.48" ybr="107.43" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="05_index-right_23.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="15.13" ytl="35.40" xbr="110.53" ybr="109.38" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="05_index-right_24.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="17.26" ytl="36.99" xbr="107.34" ybr="105.49" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="05_index-right_25.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="15.13" ytl="35.40" xbr="110.00" ybr="105.84" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="05_index-right_3.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="22.04" ytl="48.50" xbr="111.59" ybr="112.04" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="05_index-right_4.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="12.30" ytl="46.55" xbr="109.65" ybr="112.57" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="05_index-right_5.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="11.42" ytl="46.55" xbr="113.36" ybr="113.27" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="05_index-right_6.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="23.98" ytl="49.20" xbr="110.35" ybr="111.86" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="05_index-right_7.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="11.06" ytl="37.70" xbr="111.95" ybr="117.17" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="05_index-right_8.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="14.78" ytl="38.23" xbr="108.76" ybr="111.68" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="05_index-right_9.jpg" width="120" height="120">
+    <box label="right_hand" source="manual" occluded="0" xtl="11.42" ytl="44.60" xbr="112.12" ybr="114.87" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="06_index-left_0.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.52" ytl="52.04" xbr="90.18" ybr="117.52" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="06_index-left_1.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="8.58" ytl="43.89" xbr="100.62" ybr="116.11" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="06_index-left_10.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="4.69" ytl="34.16" xbr="100.27" ybr="114.16" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="06_index-left_11.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="9.29" ytl="34.69" xbr="97.96" ybr="109.56" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="06_index-left_12.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="2.74" ytl="37.17" xbr="103.81" ybr="114.87" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="06_index-left_13.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="11.24" ytl="38.76" xbr="97.61" ybr="111.86" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="06_index-left_14.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="4.51" ytl="34.16" xbr="100.80" ybr="107.96" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="06_index-left_15.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.34" ytl="32.21" xbr="98.50" ybr="110.97" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="06_index-left_16.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="6.11" ytl="38.23" xbr="101.33" ybr="106.02" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="06_index-left_17.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="6.11" ytl="36.46" xbr="102.92" ybr="109.20" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="06_index-left_18.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="5.75" ytl="35.58" xbr="103.45" ybr="111.50" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="06_index-left_19.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="8.94" ytl="32.04" xbr="103.81" ybr="109.73" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="06_index-left_2.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="8.58" ytl="43.54" xbr="106.46" ybr="114.16" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="06_index-left_20.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="11.42" ytl="27.96" xbr="110.35" ybr="107.61" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="06_index-left_21.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.70" ytl="30.09" xbr="113.36" ybr="105.13" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="06_index-left_22.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="9.29" ytl="27.43" xbr="110.00" ybr="109.56" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="06_index-left_23.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.52" ytl="28.67" xbr="111.24" ybr="104.42" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="06_index-left_24.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="5.58" ytl="28.67" xbr="110.18" ybr="103.01" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="06_index-left_25.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="5.93" ytl="27.61" xbr="113.36" ybr="107.96" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="06_index-left_3.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.17" ytl="41.06" xbr="108.23" ybr="110.80" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="06_index-left_4.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="3.81" ytl="43.01" xbr="111.06" ybr="113.98" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="06_index-left_5.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="7.34" ytl="40.71" xbr="115.13" ybr="112.92" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="06_index-left_6.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="5.75" ytl="41.24" xbr="111.77" ybr="113.10" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="06_index-left_7.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="10.53" ytl="37.88" xbr="114.42" ybr="115.75" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="06_index-left_8.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="6.46" ytl="36.46" xbr="108.23" ybr="114.34" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="06_index-left_9.jpg" width="120" height="120">
+    <box label="left_hand" source="manual" occluded="0" xtl="8.76" ytl="40.35" xbr="111.06" ybr="115.40" z_order="0">
+    </box>
+  </image>
+</annotations>
